@@ -1,0 +1,22 @@
+body{
+    background-color: violet;
+    
+}
+h1{
+    color:red;
+    margin-left: 603px;
+    text-decoration: underline;
+}
+#d1{
+    color:blue;
+    margin-left: 556px;
+}
+#d2{
+    margin-left: 606px;
+    margin-top:17px;
+    padding: 10px;
+    border-radius: 15px;
+}
+#d2:hover{
+    background-color:green
+}
